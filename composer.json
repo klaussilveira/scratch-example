@@ -1,0 +1,21 @@
+{
+    "name": "klaus/scratch",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Klaus Silveira",
+            "email": "contact@klaussilveira.com"
+        }
+    ],
+    "require": {
+        "symfony/routing": "^6.0",
+        "symfony/http-foundation": "^6.0",
+        "symfony/config": "^6.0",
+        "symfony/dependency-injection": "^6.0",
+        "symfony/yaml": "^6.0"
+    }
+}
